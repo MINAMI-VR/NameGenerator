@@ -1,0 +1,4 @@
+.handlename:nth-child(even){
+    width: 100px;
+    background: #f0f0f0;
+}
